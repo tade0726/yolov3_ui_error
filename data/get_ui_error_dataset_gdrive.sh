@@ -7,7 +7,7 @@
 
 # Set fileid and filename
 filename="ui_error.zip"
-fileid="1moWYBvfWrC20KlHhc0V6HRANERx3FQPj"  # coco.zip
+fileid="199ElLBupx5KrbkFKtYqxgQa7kuAWjMBj"  # coco.zip
 
 # Download from Google Drive, accepting presented query
 curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
